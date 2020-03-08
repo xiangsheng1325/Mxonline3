@@ -10,7 +10,7 @@
 ## 开始使用之前
 1. 确保mysql已创建相应的数据库
 ```sql
-CREATE DATABASE Mxonline3;
+CREATE DATABASE mxonline3;
 ```
 2. 修改Mxonline3/Mxonline3/settings.py  将DATABASES属性的password改为与本机一致
 
@@ -37,15 +37,3 @@ use the address: http://127.0.0.1:8000/
 ## 关于我
 
 **欢迎star项目！谢谢！你的关注支持是我继续分享前进的动力**
-
-## 求打赏鼓励
-
-很高兴我写的文章（或我的项目代码）对你有帮助，请我吃包辣条吧!
-
-微信打赏:
-
-![mark](http://myphoto.mtianyan.cn/blog/180302/i52eHgilfD.png?imageslim)
-
-支付宝打赏:
-
-![mark](http://myphoto.mtianyan.cn/blog/180302/gDlBGemI60.jpg?imageslim)
