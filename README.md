@@ -16,7 +16,7 @@ CREATE DATABASE mxonline3;
 
 ## 如何开始使用？
 
-```
+```shell
 git clone https://github.com/mtianyan/Mxonline3.git
 cd Mxonline3
 pip install -r requirements.txt
