@@ -7,6 +7,13 @@
 
 > 已测试xadmin,  DjangoUeditor Django3.0下功能可用。 如有3.0使用时触发Bug,可请进群联系。欢迎加入 funpython.cn QQ群:211599322
 
+## 开始使用之前
+1. 确保mysql已创建相应的数据库
+```sql
+CREATE DATABASE Mxonline3;
+```
+2. 修改Mxonline3/Mxonline3/settings.py  将DATABASES属性的password改为与本机一致
+
 ## 如何开始使用？
 
 ```
